@@ -10,17 +10,22 @@ MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs
 
 ## How to use?
 Step 1:
-Clone this repository on your local computer.
+Clone this repository on your local computer
 
 `git clone https://github.com/s-hash-exe/Gesture-Volume-Control.git`
 
 Step 2:
-Install all the requirements.
+Move into the directory
+
+`cd Gesture-Volume-Control`
+
+Step 3:
+Install all the requirements
 
 `pip install -r requirements.txt`
 
-Step 3:
-Run the program.
+Step 4:
+Run the program
 
 `python GestureVolumeControl.py`
 
